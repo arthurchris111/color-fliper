@@ -1,0 +1,13 @@
+main{
+    height: 70vh;
+}
+
+.colorFlipper{
+    color: rgb(147, 206, 226);
+}
+
+a:hover {
+  color: rgb(210, 31, 127)!important;
+}
+
+
